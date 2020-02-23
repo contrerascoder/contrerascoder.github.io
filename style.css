@@ -1,0 +1,40 @@
+html {
+    background: url(https://drscdn.500px.org/photo/212412407/q%3D80_m%3D2000_k%3D1/v2?sig=d031a0a66be540546287da511006bc8d4b6c2bdafc5692b7bc99f9ebec6fd30d);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+body {
+    margin: 0px;
+}
+.carta {
+    background: rgba(255, 255, 255, 0.75);
+    margin: 10px;
+    padding: 0px 10px;
+    box-sizing: border-box;
+    border: 1px solid;
+    max-width: 600px;
+    margin: 0 auto;
+}
+a {
+    color: #54340e;
+    text-decoration: none;
+    font-weight: bold;
+}
+.carta {
+    margin-top: 10px
+}
+.carta h1 {
+    font-size: 1.6em;
+    color: #54340e;
+}
+.badge {
+    display: inline-block;
+    padding: 0.2em;
+    margin: 1px 0px;
+    color: white;
+    font-weight: bold;
+    background: #54340e;
+    border-radius: 5px;
+}
